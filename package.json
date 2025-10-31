@@ -1,0 +1,26 @@
+{
+  "name": "coursehub",
+  "version": "1.0.0",
+  "description": "A website made to improve the accessibility to information for all people",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joshirow0/Coursehub-HackP7thed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joshirow0/Coursehub-HackP7thed/issues"
+  },
+  "homepage": "https://github.com/Joshirow0/Coursehub-HackP7thed#readme",
+  "dependencies": {
+    "cors": "2.8.5",
+    "dotenv": "17.2.3",
+    "express": "5.1.0",
+    "node-fetch": "3.3.2"
+  }
+}
